@@ -16,9 +16,8 @@ FullStack Software Developer
 
 ### 📬 Get in Touch
 
-
-- GitHub: [https://github.com/betocode][github]
-- LinkedIn: [https://www.linkedin.com/in/roberto-alves888/][linkedin]
+- [Github](https://github.com/betocode)
+- [Linkedin](https://www.linkedin.com/in/roberto-alves888/)
 
 
 
